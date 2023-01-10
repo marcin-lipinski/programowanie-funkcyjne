@@ -1,0 +1,72 @@
+{
+  "grenade": {
+    "image": "images\\sprites\\weapons\\grenade.png",
+    "bullet_image": "None",
+    "position": [20, 20],
+    "initial_ammo": 10,
+    "damage": 2
+  },
+  "bazooka": {
+    "image": "images\\sprites\\weapons\\bazooka.png",
+    "bullet_image": "images\\sprites\\weapons\\bazooka_bullet.png",
+    "position": [240, 20],
+    "initial_ammo": 3,
+    "damage": 25
+  },
+  "pistol": {
+    "image": "images\\sprites\\weapons\\pistol.png",
+    "bullet_image": "images\\sprites\\weapons\\m4a1_bullet.png",
+    "position": [20, 230],
+    "initial_ammo": 25,
+    "damage": 12
+  },
+  "dynamite": {
+    "image": "images\\sprites\\weapons\\dynamite.png",
+    "bullet_image": "None",
+    "position": [240, 230],
+    "initial_ammo": 6,
+    "damage": 12
+  },
+  "m4a1":{
+    "image": "images\\sprites\\weapons\\m4a1.png",
+    "bullet_image": "images\\sprites\\weapons\\m4a1_bullet.png",
+    "position": [20, 440],
+    "initial_ammo": 90,
+    "damage": 0.8
+  },
+  "machete": {
+    "image": "images\\sprites\\weapons\\machete.png",
+    "bullet_image": "None",
+    "position": [240, 440],
+    "initial_ammo": 5,
+    "damage": 10
+  },
+  "jetpack": {
+    "image": "images\\sprites\\weapons\\jetpack.png",
+    "bullet_image": "None",
+    "position": [20, 650],
+    "initial_ammo": 50,
+    "damage": 0
+  },
+  "first-aid-kit": {
+    "image": "images\\sprites\\weapons\\first-aid-kit.png",
+    "bullet_image": "None",
+    "position": [240, 650],
+    "initial_ammo": 2,
+    "damage": 15
+  },
+  "mortar": {
+    "image": "images\\sprites\\weapons\\mortar.png",
+    "bullet_image": "images\\sprites\\weapons\\mortar_bullet.png",
+    "position": [20, 860],
+    "initial_ammo": 2,
+    "damage": 30
+  },
+  "flame-thrower": {
+    "image": "images\\sprites\\weapons\\flame-thrower.png",
+    "bullet_image": "None",
+    "position": [240, 860],
+    "initial_ammo": 3,
+    "damage": 20
+  }
+}
